@@ -20,4 +20,4 @@ O e-book apresenta um conteúdo detalhado sobre:
 [LINK PARA O E-BOOK AQUI](https://github.com/wagnersk/lab-natty-or-not/blob/main/ebook/DOM.pdf)
 
 ## 💭 Reflexão
-Criar este e-book foi uma experiência reveladora sobre o potencial criativo das IAs e como elas podem ser aplicadas em diferentes contextos.
+Criar este e-book foi uma experiência enriquecedora que aprofundou meu entendimento sobre o poder do JavaScript para manipular a DOM de maneira eficiente e eficaz, demonstrando a importância dessas técnicas na criação de interfaces web dinâmicas e interativas.
