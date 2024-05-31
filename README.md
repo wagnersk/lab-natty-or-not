@@ -17,7 +17,7 @@ O e-book apresenta um conteúdo detalhado sobre:
 	•	Propriedades para Navegação no DOM: Como parentNode, childNodes, firstChild, lastChild, nextSibling e previousSibling.
 	•	Métodos de Seleção Avançada: Incluindo element.closest(selector) e element.querySelectorAll(selector).
 
-[LINK PARA O E-BOOK AQUI]()
+[LINK PARA O E-BOOK AQUI](https://github.com/wagnersk/lab-natty-or-not/blob/main/ebook/DOM.pdf)
 
 ## 💭 Reflexão
 Criar este e-book foi uma experiência reveladora sobre o potencial criativo das IAs e como elas podem ser aplicadas em diferentes contextos.
